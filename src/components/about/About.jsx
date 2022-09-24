@@ -21,7 +21,7 @@ const About = () => {
           readable content.
         </p>
         <p className="a-desc">
-          I am from country in Central Asia called Kyrgyzstan. During my high school years, I actively participated in various Chemistry Olympiads. However, when got in to university. I decided to change my major to Computer Science. Because I believe that Computer Science is future.
+          I am from country in Central Asia called Kyrgyzstan. During my high school years, I actively participated in various Chemistry Olympiads. However, when I got in to university. I decided to change my major to Computer Science. Because I believe that Computer Science is future.
           I am currently new in this field. However, I believe that experience that I will get in your company definitely will help on my way to become professioanl Web developer.
         </p>
         <div className="a-award">
